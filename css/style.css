@@ -68,6 +68,7 @@ h1{
 .paisagem{
     width: 60%;
     margin-bottom: 20px;
+    min-width: 100px;
 }
 
 h2{
@@ -96,4 +97,24 @@ footer div{
 i{
     font-size: 100px;
     color: var(--cinza);
+}
+
+@media (max-width: 650px){
+    header{
+        text-align: center;
+    }
+    
+    main{
+        width: 100%;
+    }
+}
+
+@media (orientation: landscape) and (max-width: 1000px) {
+    header{
+        text-align: center;
+    }
+    
+    main{
+        width: 100%;
+    }
 }
