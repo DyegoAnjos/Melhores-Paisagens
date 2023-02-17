@@ -1,3 +1,4 @@
+EM ATUALIZAÇÃO
 # Melhores-Paisagens
 Olá devs.
 Esse site mostra incríveis paisagens e é um ótimo projeto para praticar o meu CSS, confesso que para sites mais de artigos o meu CSS acaba sendo bem básico e ruinzinho porém eu pude praticar bastante a minha responsividade.
